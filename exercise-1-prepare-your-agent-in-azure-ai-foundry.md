@@ -8,7 +8,7 @@ Azure AI Foundry is your launchpad for building AI agents. In this step, you’l
 
 1. Open the browser and navigate to https://ai.azure.com/allresources and sign to your Azure account. 
 
-2. From the Azure AI Foundry homepage, select the pre-polulated project in the list. This will direct you to the Azure AI Foundry project page.
+2. From the Azure AI Foundry homepage, select the pre-populated project in the list. This will direct you to the Azure AI Foundry project page.
 
 > [!TIP]
 > If your project doesn't show up in the list of projects, you can go to https://portal.azure.com, login with the same credentials, go to **Resource Group > ResourceGroup1** and select **Azure AI project**, then **Launch studio**.
@@ -50,9 +50,11 @@ Now that you're inside the Agents Playground, you'll customize your agent's iden
     - What happens during a performance review?
     ```
 
-2. Finally in the **Knowledge** section, Select **+ Add** and select **Files**, then **Select local files**. Select all the files from the [resources](./resources/) folder and hit **Upload and save**. This will create a vector store for our agent.
+2. First Download the sample files `.zip` from the [resources](./resources/). Now in the **Knowledge** section, Select **+ Add** and select **Files**, then **Select local files**. Select the downloaded sample files (extracted) and hit **Upload and save**. This will create a vector store for our agent.
 
 > When you upload documents, Foundry automatically converts them into vectors, a format that allows the agent to search and retrieve relevant information efficiently.
+
+> If we had the Retrieval API, we would not need this 😎
 
 ![Select local files](https://github.com/user-attachments/assets/64bb7392-15f6-458c-9e74-d8ab100ca8fd)
 
