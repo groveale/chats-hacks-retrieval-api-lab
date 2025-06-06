@@ -268,4 +268,4 @@ You should observe that you are getting similar responses with the agent you've 
 
 ## Next Step
 
-Go to the next exercise Bring your agent to Copilot Chat.
+[Go to the next exercise: Bring your agent to Copilot Chat](./exercise-5-bring-your-agent-to-copilot-chat.md)

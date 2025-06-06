@@ -71,4 +71,4 @@ namespace ContosoHRAgent
 
 ## Next Step
 
-Go to the next exercise to Integrate Azure AI Foundry Agent with M365 Agents SDK.
+[Go to the next exercise: Integrate Azure AI Foundry Agent with M365 Agents SDK](./exercise-4-integrate-foundry-agent-with-m365-agents-sdk.md)

@@ -28,4 +28,4 @@ Wait until the agent's meesage "Hello and Welcome!", then type anything such as 
 
 This simple agent forms the base for more powerful experiences. In the next step, you'll combine this with your Azure AI Foundry agent to enable richer, context-aware answers.
 
-Go to the next exercise Integrate Azure AI Foundry agent with M365 Agents SDK.
+[Go to the next exercise: Integrate Azure AI Foundry agent with M365 Agents SDK](./exercise-3-integrate-foundry-agent-with-m365-agents-sdk.md)

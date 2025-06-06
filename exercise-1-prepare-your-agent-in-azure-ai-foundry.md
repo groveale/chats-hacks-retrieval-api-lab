@@ -50,7 +50,7 @@ Now that you're inside the Agents Playground, you'll customize your agent's iden
     - What happens during a performance review?
     ```
 
-2. Finally in the **Knowledge** section, Select **+ Add** and select **Files**, then **Select local files**. Select all the files from the `resources` folder and hit **Upload and save**. This will create a vector store for our agent.
+2. Finally in the **Knowledge** section, Select **+ Add** and select **Files**, then **Select local files**. Select all the files from the [resources](./resources/) folder and hit **Upload and save**. This will create a vector store for our agent.
 
 > When you upload documents, Foundry automatically converts them into vectors, a format that allows the agent to search and retrieve relevant information efficiently.
 
@@ -82,5 +82,5 @@ In the Agent Playground, interact with your agent by entering prompts and observ
 
 ## Next Step
 
-Go to the next exercise and Build your first agent using M365 Agents SDK.
+[Go to the next exercise: Build your first agent using M365 Agents SDK](./exercise-2-build-your-first-agent.md)
 
