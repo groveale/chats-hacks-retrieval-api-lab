@@ -58,7 +58,7 @@ Replace bots section with the following that will also add copilotAgents in the 
   }, 
 ```
 
-Hit **Start** or **F5** to start debugging. Microsoft Teams will launch automatically. When Microsoft Teams open in your browser, ignore the app pop-up and select **Apps > Manage your apps > Upload an app**. In the File Explorer go to +++C:\Users\LabUser\source\repos\ContosoHRAgent\M365Agent\appPackage\build+++ select **appPackage.local**.
+Hit **Start** or **F5** to start debugging. Microsoft Teams will launch automatically. When Microsoft Teams open in your browser, ignore the app pop-up and select **Apps > Manage your apps > Upload an app**. In the File Explorer go to `..\ContosoHRAgent\M365Agent\appPackage\build` select **appPackage.local**.
 > 
 >![Upload app](https://github.com/user-attachments/assets/5fad723f-b087-4481-8c8c-d5ad87c1bead)
 
@@ -67,9 +67,7 @@ Your app will pop-up on Teams again, select **Add**. This time there will be an 
 ![Copilot option](https://github.com/user-attachments/assets/97f9d9fd-bd90-48b5-983b-b1fea3f85721)
 
 >[!TIP]
-> If you see *Copilot is not currently supported in this region*, then go to +++**https://m365.microsoft.cloud**+++ that will open Microsoft 365 Copilot in your browser. Sign in with the credentials below:
-> * **Email**: +++@lab.CloudPortalCredential(User1).Username+++
-> * **Password**: +++@lab.CloudPortalCredential(User1).Password+++
+> If you see *Copilot is not currently supported in this region*, then go to **https://m365.microsoft.cloud** that will open Microsoft 365 Copilot in your browser. 
 >
 > <img width="1004" alt="Copilot error" src="https://github.com/user-attachments/assets/e079360f-9854-46c8-92c9-ef685547ea36" />
 
@@ -81,8 +79,8 @@ Observe that your agent responds back with a similar behavior on Copilot Chat.
 
 ![image](https://github.com/user-attachments/assets/4211f43d-8aef-4262-95e3-1efac7dba495)
 
-## Next Step
+## Complete!
 
 ✅ You’ve successfully brought your AI-powered agent to M365 Copilot Chat!
 
-Select **Next >** to explore resources and more.
+
